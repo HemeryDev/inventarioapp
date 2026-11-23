@@ -5,7 +5,7 @@ plugins {
     // Activa los plugins para el módulo :app:
     id("com.google.dagger.hilt.android")
     id("com.google.devtools.ksp")
-    // id("com.google.gms.google-services") // Se habilita en Fase C con google-services.json
+    id("com.google.gms.google-services")
     id("org.jetbrains.kotlin.plugin.serialization")
 }
 

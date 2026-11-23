@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115374888551",
+    "project_id": "inventarioapp-aula207",
+    "storage_bucket": "inventarioapp-aula207.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115374888551:android:02a7d49d0835004281e6c2",
+        "android_client_info": {
+          "package_name": "com.sena.inventarioapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr6kiiFKHo_uJ25kgJA3urARfZ-1GqWcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
